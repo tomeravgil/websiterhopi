@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/websiterhopi/static/css/main.33c8b251.css",
-    "main.js": "/websiterhopi/static/js/main.f9e683ac.js",
+    "main.js": "/websiterhopi/static/js/main.78b8311b.js",
     "static/js/453.187cd7b3.chunk.js": "/websiterhopi/static/js/453.187cd7b3.chunk.js",
     "static/media/intro.mp4": "/websiterhopi/static/media/intro.83bf55bf83f02cced85c.mp4",
     "static/media/Calendar.png": "/websiterhopi/static/media/Calendar.e08812be34a024dded69.png",
@@ -16,11 +16,11 @@
     "static/media/collins.png": "/websiterhopi/static/media/collins.a86d589f8746128ffbb7.png",
     "index.html": "/websiterhopi/index.html",
     "main.33c8b251.css.map": "/websiterhopi/static/css/main.33c8b251.css.map",
-    "main.f9e683ac.js.map": "/websiterhopi/static/js/main.f9e683ac.js.map",
+    "main.78b8311b.js.map": "/websiterhopi/static/js/main.78b8311b.js.map",
     "453.187cd7b3.chunk.js.map": "/websiterhopi/static/js/453.187cd7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c8b251.css",
-    "static/js/main.f9e683ac.js"
+    "static/js/main.78b8311b.js"
   ]
 }
