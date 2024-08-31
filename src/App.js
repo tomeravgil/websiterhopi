@@ -2,7 +2,7 @@ import * as React from 'react';
 import CssBaseline from '@mui/material/CssBaseline';
 import Container from '@mui/material/Container';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import AppAppBar from './components/AppAppBar';
 import MainContent from './components/MainContent';
 import ContactUs from './ContactUs/ContactUs';
@@ -38,6 +38,8 @@ export default function App() {
       <Router>
         <AppAppBar />
         <Routes>
+          {/* Redirect from /websiterhopi to / */}
+          <Route path="/websiterhopi" element={<Navigate to="/" />} />
           <Route
             path="/"
             element={
