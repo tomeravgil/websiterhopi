@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/websiterhopi/static/css/main.33c8b251.css",
-    "main.js": "/websiterhopi/static/js/main.f9e683ac.js",
-    "static/js/453.187cd7b3.chunk.js": "/websiterhopi/static/js/453.187cd7b3.chunk.js",
-    "static/media/intro.mp4": "/websiterhopi/static/media/intro.83bf55bf83f02cced85c.mp4",
-    "static/media/Calendar.png": "/websiterhopi/static/media/Calendar.e08812be34a024dded69.png",
-    "static/media/philanthropy.jpg": "/websiterhopi/static/media/philanthropy.d6ee598641f23ffd50c1.jpg",
-    "static/media/shabbat.jpg": "/websiterhopi/static/media/shabbat.69dab904255c62da6244.jpg",
-    "static/media/saint thomas.jpg": "/websiterhopi/static/media/saint thomas.ffa3c85c29ffbb92fa11.jpg",
-    "static/media/workweek.jpg": "/websiterhopi/static/media/workweek.53b2b8cb8157a1ec506c.jpg",
-    "static/media/amazon.png": "/websiterhopi/static/media/amazon.be1188544e585c081987.png",
-    "static/media/cree.png": "/websiterhopi/static/media/cree.71198106db3ad2a8c1a2.png",
-    "static/media/rivian.png": "/websiterhopi/static/media/rivian.91e448a31d063688832b.png",
-    "static/media/AEPi_Letters.png": "/websiterhopi/static/media/AEPi_Letters.022c842e33edd6686db3.png",
-    "static/media/collins.png": "/websiterhopi/static/media/collins.a86d589f8746128ffbb7.png",
-    "index.html": "/websiterhopi/index.html",
-    "main.33c8b251.css.map": "/websiterhopi/static/css/main.33c8b251.css.map",
-    "main.f9e683ac.js.map": "/websiterhopi/static/js/main.f9e683ac.js.map",
-    "453.187cd7b3.chunk.js.map": "/websiterhopi/static/js/453.187cd7b3.chunk.js.map"
+    "main.css": "/static/css/main.33c8b251.css",
+    "main.js": "/static/js/main.4fa3c206.js",
+    "static/js/453.187cd7b3.chunk.js": "/static/js/453.187cd7b3.chunk.js",
+    "static/media/intro.mp4": "/static/media/intro.83bf55bf83f02cced85c.mp4",
+    "static/media/Calendar.png": "/static/media/Calendar.e08812be34a024dded69.png",
+    "static/media/philanthropy.jpg": "/static/media/philanthropy.d6ee598641f23ffd50c1.jpg",
+    "static/media/shabbat.jpg": "/static/media/shabbat.69dab904255c62da6244.jpg",
+    "static/media/saint thomas.jpg": "/static/media/saint thomas.ffa3c85c29ffbb92fa11.jpg",
+    "static/media/workweek.jpg": "/static/media/workweek.53b2b8cb8157a1ec506c.jpg",
+    "static/media/amazon.png": "/static/media/amazon.be1188544e585c081987.png",
+    "static/media/cree.png": "/static/media/cree.71198106db3ad2a8c1a2.png",
+    "static/media/rivian.png": "/static/media/rivian.91e448a31d063688832b.png",
+    "static/media/AEPi_Letters.png": "/static/media/AEPi_Letters.022c842e33edd6686db3.png",
+    "static/media/collins.png": "/static/media/collins.a86d589f8746128ffbb7.png",
+    "index.html": "/index.html",
+    "main.33c8b251.css.map": "/static/css/main.33c8b251.css.map",
+    "main.4fa3c206.js.map": "/static/js/main.4fa3c206.js.map",
+    "453.187cd7b3.chunk.js.map": "/static/js/453.187cd7b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c8b251.css",
-    "static/js/main.f9e683ac.js"
+    "static/js/main.4fa3c206.js"
   ]
 }
