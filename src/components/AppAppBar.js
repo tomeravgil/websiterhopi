@@ -88,12 +88,18 @@ export default function AppAppBar() {
                   </IconButton>
                 </Box>
                 <Divider sx={{ my: 3 }} />
-                <MenuItem>Features</MenuItem>
-                <MenuItem>Testimonials</MenuItem>
-                <MenuItem>Highlights</MenuItem>
-                <MenuItem>Pricing</MenuItem>
-                <MenuItem>FAQ</MenuItem>
-                <MenuItem>Blog</MenuItem>
+                <MenuItem component={Link} to="/newsletters" onClick={toggleDrawer(false)}>
+                  Newsletter
+                </MenuItem>
+                <MenuItem component={Link} to="/officers" onClick={toggleDrawer(false)}>
+                  Officers
+                </MenuItem>
+                <MenuItem component={Link} to="../ContactUs/" onClick={toggleDrawer(false)}>
+                  Contact Us
+                </MenuItem>
+                <MenuItem component={Link} to="/recruitment" onClick={toggleDrawer(false)}>
+                  Recruitment
+                </MenuItem>
 
               </Box>
             </Drawer>

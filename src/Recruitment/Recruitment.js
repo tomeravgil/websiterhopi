@@ -34,7 +34,7 @@ const Recruitment = () => {
         <Box
           component="img"
           src={springRushImage}
-          alt="Spring Rush 2024"
+          alt="Fall Rush 2024"
           sx={{
             width: '100%',
             height: 'auto',
